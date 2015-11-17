@@ -1,0 +1,7 @@
+I plan on creating a code that will create an abstract illustration based on what is played on the MIDI keyboard.
+I was thinking of having something unique for each note or key change. I was also going to have it react ot tempo
+changes or dynamics. Inputs would be the keyboard, while the output would be the visualization.
+
+I would start off with just figuring out basic responses that I can create when a note is pressed, then trying to
+get more complex or intricate with the visualizations. I wanted to make it so that anything can be played and there
+would be unique visuals, instead of creating a visualization for a specific song.
